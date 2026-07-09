@@ -1,5 +1,11 @@
 # 📊 Executive Sales Dashboard
 
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![PivotTable](https://img.shields.io/badge/PivotTable-Expert-blue?style=for-the-badge)
+![PivotChart](https://img.shields.io/badge/PivotChart-Interactive-orange?style=for-the-badge)
+![VBA](https://img.shields.io/badge/VBA-Automation-purple?style=for-the-badge)
+![MIT License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)
+
 Interactive Executive Sales Dashboard built using **Microsoft Excel**, **Data Model**, **PivotTable**, **PivotChart**, **Slicers**, and **VBA**.
 
 ---
