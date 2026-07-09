@@ -6,7 +6,6 @@ Interactive Executive Sales Dashboard built using **Microsoft Excel**, **Data Mo
 
 ## 📷 Dashboard Preview
 
-> Ganti path jika nama file berbeda.
 
 ![Executive Sales Dashboard](screenshots/dashboard.png)
 
